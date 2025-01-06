@@ -6,5 +6,5 @@ Let's Walrus 一项学Walrus获得WAL(前期发SUI)的激励计划，鼓励更�
 
 
 ## 社区 & 问答
-- [move中文 TG](https://t.me/move_cn)
+- [walrus中文开发者 TG](https://t.me/walrus_cn)
 - QQ群: 79489587
